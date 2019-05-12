@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/C_Hello_World_Program.png/402px-C_Hello_World_Program.png");
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: rgb(240, 10, 10);
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+  padding: 40px;
+  color: rgb(10, 233, 77);
+}
+
+.footer {
+  margin-top: 20px;
+  background-color: rgb(240, 13, 13);
+  color: white;
+}
+.score {
+  color: rgb(24, 219, 17);
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

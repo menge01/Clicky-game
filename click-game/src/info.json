@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "javaScript",
+      "image":
+        "https://boostlog-public.s3.us-west-1.amazonaws.com/articles/5a9e54bee922f1008c7efa93/20160410154524-1521622883962.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Java",
+      "image":
+        "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
+        "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Python",
+      "image":
+        "https://www.python.org/static/img/python-logo@2x.png",
+        "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Ruby/Ruby on Rails",
+      "image":
+        "https://www.thoughtco.com/thmb/JpBnEUWE4Szf34r-7z0pKoQUPCs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/2000px-Ruby-logo-R.svg-56a811b75f9b58b7d0f05e83.jpg",
+        "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "C language",
+      "image":
+        "http://www.techbaz.org/Course/img/c-logo.png",
+        "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "C++",
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+        "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "HTML",
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+        "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "C#",
+      "image":
+        "https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg?download",
+        "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Objective-C",
+      "image":
+        "https://assets.exercism.io/tracks/objective-c-bordered-turquoise.png",
+        "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "PHP (Hypertext Preprocessor)",
+      "image":
+        "https://s3.amazonaws.com/tinycards/image/63586af6c1d71b6e85ca1cacf35cfcae",
+        "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "SQL (Structured Query Language)",
+      "image":
+        "https://27jts3o00yy49vo2y30wem91-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/ASSET-SOFTWARE-SQL-DATABASE-300x300.png",
+        "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Swift",
+      "image":
+        "https://developer.apple.com/swift/images/swift-og.png",
+        "clicked": false
+    }
+]
+  
